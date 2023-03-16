@@ -1,5 +1,3 @@
-# Hello
-
 about me | cool cat
 :----:|:-------:
 I'm a software developer with proficiency in Java and Golang. I have a keen interest in backend development and system design, and I love building scalable, reliable, and efficient systems. I enjoy working on projects that involve designing and developing APIs, microservices, and distributed systems. | ![cat typing](./cattype.gif)
